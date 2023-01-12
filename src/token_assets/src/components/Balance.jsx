@@ -18,6 +18,7 @@ function Balance() {
     setBalance(balance.toLocaleString());
     setCryptoSymbol(await token.getSymbol());
     setHidden(false);
+    setInput("");
   }
 
 
