@@ -5,7 +5,7 @@ import Iter "mo:base/Iter";
 
 actor Token {
 
-    Debug.print("Hello");
+    // Debug.print("Hello");
 
     // variable's name : variable's type = variable's value
     let owner : Principal = Principal.fromText("udmjy-up4ui-xnyyy-3mhgx-4pte4-sl6ok-n67yk-pdjik-eowui-trcmf-lqe");
